@@ -1,0 +1,45 @@
+scientific_name	rank	aphia_id	parent_name	parent_id	authority	status	kingdom	phylum	class	order	family	genus	classification
+Sarcomastigota	Subkingdom	582160	Protozoa	5		accepted	Protozoa						
+Choanozoa	Phylum	562870	Sarcomastigota	582160	Cavalier-Smith, 1981	accepted	Protozoa	Choanozoa					
+Choanofila	Subphylum	562871	Choanozoa	562870	Cavalier-Smith, 2009	accepted	Protozoa	Choanozoa					
+Choanoflagellatea	Class	580116	Choanofila	562871	Cavalier-Smith, 1998	accepted	Protozoa	Choanozoa	Choanoflagellatea				
+Acanthoecida	Order	580117	Choanoflagellatea	580116		accepted	Protozoa	Choanozoa	Choanoflagellatea	Acanthoecida			
+Acanthoecidae	Family	105498	Acanthoecida	580117	Norris, 1965	accepted	Protozoa	Choanozoa	Choanoflagellatea	Acanthoecida	Acanthoecidae		
+Acanthoecopsis	Genus	105503	Acanthoecidae	105498	Norris, 1965	accepted	Protozoa	Choanozoa	Choanoflagellatea	Acanthoecida	Acanthoecidae	Acanthoecopsis	
+Acanthoecopsis asymmetrica	Species	105550	Acanthoecopsis	105503	Thomsen	accepted	Protozoa	Choanozoa	Choanoflagellatea	Acanthoecida	Acanthoecidae	Acanthoecopsis	
+Acanthoecopsis spiculifera	Species	105553	Acanthoecopsis	105503	R.E.Norris, 1965	accepted	Protozoa	Choanozoa	Choanoflagellatea	Acanthoecida	Acanthoecidae	Acanthoecopsis	
+Craspedida	Order	581514	Choanoflagellatea	580116	Cavalier-Smith, 1997, emend. Nitsche et al. 2011	accepted	Protozoa	Choanozoa	Choanoflagellatea	Craspedida			
+Codosigidae	Family	105499	Craspedida	581514		accepted	Protozoa	Choanozoa	Choanoflagellatea	Craspedida	Codosigidae		
+Choanoeca	Genus	105538	Codosigidae	105499	W.N.Ellis, 1930	accepted	Protozoa	Choanozoa	Choanoflagellatea	Craspedida	Codosigidae	Choanoeca	
+Choanoeca perplexa	Species	105650	Choanoeca	105538	W.N.Ellis, 1930	accepted	Protozoa	Choanozoa	Choanoflagellatea	Craspedida	Codosigidae	Choanoeca	
+Codonocladium	Genus	105530	Codosigidae	105499	Stein	accepted	Protozoa	Choanozoa	Choanoflagellatea	Craspedida	Codosigidae	Codonocladium	
+Codonocladium cymosum	Species	105632	Codonocladium	105530	(Kent, 1880) Boucard Camou, 1967	accepted	Protozoa	Choanozoa	Choanoflagellatea	Craspedida	Codosigidae	Codonocladium	
+Codonoeca	Genus	580804	Codosigidae	105499	H.J.Clark, 1868	accepted	Protozoa	Choanozoa	Choanoflagellatea	Craspedida	Codosigidae	Codonoeca	
+Codonoeca costata	Species	633853	Codonoeca	580804	H.J.Clark, 1868	accepted	Protozoa	Choanozoa	Choanoflagellatea	Craspedida	Codosigidae	Codonoeca	
+Dicraspedella	Genus	105533	Codosigidae	105499	Ellis, 1933	accepted	Protozoa	Choanozoa	Choanoflagellatea	Craspedida	Codosigidae	Dicraspedella	
+Dicraspedella stokesi	Species	105637	Dicraspedella	105533	Ellis, 1930	accepted	Protozoa	Choanozoa	Choanoflagellatea	Craspedida	Codosigidae	Dicraspedella	
+Diploeca	Genus	105539	Codosigidae	105499	W.N.Ellis, 1930	accepted	Protozoa	Choanozoa	Choanoflagellatea	Craspedida	Codosigidae	Diploeca	
+Diploeca hemisphaerica	Species	639214	Diploeca	105539	R.E.Norris, 1965	accepted	Protozoa	Choanozoa	Choanoflagellatea	Craspedida	Codosigidae	Diploeca	
+Diploeca neustophila	Species	644920	Diploeca	105539	R.E.Norris, 1965	accepted	Protozoa	Choanozoa	Choanoflagellatea	Craspedida	Codosigidae	Diploeca	
+Diploeca phialule	Species	647271	Diploeca	105539	R.E.Norris, 1965	accepted	Protozoa	Choanozoa	Choanoflagellatea	Craspedida	Codosigidae	Diploeca	
+Protospongia	Genus	105537	Codosigidae	105499		accepted	Protozoa	Choanozoa	Choanoflagellatea	Craspedida	Codosigidae	Protospongia	
+Protospongia haeckelii	Species	1373482	Protospongia	105537	W.S.Kent, 1880	accepted	Protozoa	Choanozoa	Choanoflagellatea	Craspedida	Codosigidae	Protospongia	
+Ichthyosporea	Class	391862	Choanofila	562871	Cavalier-Smith, 1998	accepted	Protozoa	Choanozoa	Ichthyosporea				
+Eccrinales	Order	147686	Ichthyosporea	391862	L. Léger & Duboscq, 1929	accepted	Protozoa	Choanozoa	Ichthyosporea	Eccrinales			
+Ichthyosporea incertae sedis	Subclass	391863	Ichthyosporea	391862		accepted	Protozoa	Choanozoa	Ichthyosporea				
+Eccrinida	Order	889922	Ichthyosporea incertae sedis	391863		accepted	Protozoa	Choanozoa	Ichthyosporea	Eccrinida			
+Eccriniidae	Family	889923	Eccrinida	889922	L. Léger & Duboscq, 1929	accepted	Protozoa	Choanozoa	Ichthyosporea	Eccrinida	Eccriniidae		
+Arundinula	Genus	178113	Eccriniidae	889923	L. Léger & Duboscq, 1906	accepted	Protozoa	Choanozoa	Ichthyosporea	Eccrinida	Eccriniidae	Arundinula	
+Arundinula capitata	Species	178114	Arundinula	178113	(L. Léger & Duboscq) L. Léger & Duboscq, 1906	accepted	Protozoa	Choanozoa	Ichthyosporea	Eccrinida	Eccriniidae	Arundinula	
+Arundinula incurvata	Species	178116	Arundinula	178113	(L. Léger & Duboscq) L. Léger & Duboscq, 1906	accepted	Protozoa	Choanozoa	Ichthyosporea	Eccrinida	Eccriniidae	Arundinula	
+Enterobryus	Genus	178118	Eccriniidae	889923	Leidy, 1850	accepted	Protozoa	Choanozoa	Ichthyosporea	Eccrinida	Eccriniidae	Enterobryus	
+Enterobryus halophilus	Species	178120	Enterobryus	178118	Cronin & T.W. Johnson, 1958	accepted	Protozoa	Choanozoa	Ichthyosporea	Eccrinida	Eccriniidae	Enterobryus	
+Enteromyces	Genus	723701	Eccriniidae	889923	Lichtwardt, 1961	accepted	Protozoa	Choanozoa	Ichthyosporea	Eccrinida	Eccriniidae	Enteromyces	
+Enteromyces callianassae	Species	723702	Enteromyces	723701	Lichtwardt, 1961	accepted	Protozoa	Choanozoa	Ichthyosporea	Eccrinida	Eccriniidae	Enteromyces	
+Taeniella	Genus	723703	Eccriniidae	889923	Léger & Duboscq, 1911	accepted	Protozoa	Choanozoa	Ichthyosporea	Eccrinida	Eccriniidae	Taeniella	
+Palavasciaceae	Family	147688	Eccrinida	889922		accepted	Protozoa	Choanozoa	Ichthyosporea	Eccrinida	Palavasciaceae		
+Ichthyosporida	Order	562873	Ichthyosporea	391862		accepted	Protozoa	Choanozoa	Ichthyosporea	Ichthyosporida			
+Dermocystidae	Family	562874	Ichthyosporida	562873		accepted	Protozoa	Choanozoa	Ichthyosporea	Ichthyosporida	Dermocystidae		
+Dermocystidium	Genus	178109	Dermocystidae	562874	Pérez, 1908	accepted	Protozoa	Choanozoa	Ichthyosporea	Ichthyosporida	Dermocystidae	Dermocystidium	
+Biota		1				accepted							
+Protozoa	Kingdom	5	Biota	1	Owen, 1858	accepted	Protozoa						

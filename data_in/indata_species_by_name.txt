@@ -1,0 +1,2 @@
+scientific_name	rank	non_taxonomic_group	comment1	exclude_scientific_name	rank_of_excluded_scientific_name	comment2
+Sarcomastigota	Phylum	Protozoa				
