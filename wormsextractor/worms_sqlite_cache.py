@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
 #
-# Copyright (c) 2020-present SMHI, Swedish Meteorological and Hydrological Institute
+# Copyright (c) 2021-present SMHI, Swedish Meteorological and Hydrological Institute
 # License: MIT License (see LICENSE.txt or http://opensource.org/licenses/mit).
 
 import pathlib
@@ -39,6 +39,9 @@ class WormsSqliteCache:
 
     def add_worms_record(self, aphia_id, data_json):
         """ """
+        if len(data_json) == 0:
+            print("Error: Empty record to cache, record: ", aphia_id)
+            return
         self.connect()
         try:
             c = self.db_conn.cursor()
@@ -86,6 +89,9 @@ class WormsSqliteCache:
 
     def add_classification(self, aphia_id, data_json):
         """ """
+        if len(data_json) == 0:
+            print("Error: Empty record to cache, classification: ", aphia_id)
+            return
         self.connect()
         try:
             c = self.db_conn.cursor()

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding:utf-8 -*-
 #
-# Copyright (c) 2019-present SMHI, Swedish Meteorological and Hydrological Institute
+# Copyright (c) 2021-present SMHI, Swedish Meteorological and Hydrological Institute
 # License: MIT License (see LICENSE.txt or http://opensource.org/licenses/mit).
 
 import json
@@ -10,7 +10,7 @@ import urllib.request
 from wormsextractor import worms_sqlite_cache
 
 
-class WormsRestWebserviceClient:
+class WormsRestClient:
     """
     For usage instructions check "https://github.com/sharkdata/species".
     """

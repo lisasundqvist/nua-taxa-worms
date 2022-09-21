@@ -1,3 +1,10 @@
-venv
+
+# Python.
 *.pyc
-.vscode
+venv
+# VS Code.
+.vscode/*
+# Generated files.
+errors.txt
+taxa_worms.txt
+worms_cache.db
