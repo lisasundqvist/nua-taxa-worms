@@ -121,7 +121,7 @@ Coscinodiscus radiatus	149158	exact	Coscinodiscus radiatus	Ehrenberg, 1840	14915
 Coscinodiscus subbulliens	163191	exact	Coscinodiscus subbulliens	E.G.JÃ¶rgensen, 1905	163191	Coscinodiscus subbulliens	E.G.JÃ¶rgensen, 1905	163191
 Roperia	149104	exact	Roperia	A. Grunow ex J. Pelletan, 1889	149104	Roperia	A. Grunow ex J. Pelletan, 1889	149104
 Hemidiscus	180366	exact	Hemidiscus	G.C. Wallich, 1860	180366	Hemidiscus	G.C. Wallich, 1860	180366
-Actinocyclus	196347	exact	Actinocyclus	Ehrenberg, 1831	196347	Actinocyclus	Ehrenberg, 1831	196347
+Actinocyclus	148944	exact	Actinocyclus	C.G. Ehrenberg, 1837	148944	Actinocyclus	C.G. Ehrenberg, 1837
 Actinocyclus curvatulus	345847	exact	Actinocyclus curvatulus	Janisch, 1874	345847	Actinocyclus curvatulus	Janisch, 1874	345847
 Podosira stelligera	966501	exact	Podosira stelligera	(J.W. Bailey) Mann, 1907	984312	Hyalodiscus stelliger f. stelliger	J.W. Bailey, 1854	984312
 Melosira arctica	967160	exact	Melosira arctica	(Ehrenberg) Ralfs in Pritchard, 1861	976453	Melosira arctica var. arctica	Dickie in litt., Ehrenberg, 1853	976453
